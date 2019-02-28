@@ -1,0 +1,48 @@
+<!-- task:1.	Write your CV as an XML document  -->
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cv.xslt" type="text/xsl" ?>
+<cv>
+	<me
+		name="Alina Ansari"
+		address="Latifabad, Hyderabad"
+		telephone="01123456789"
+		email="abacba123 @yahoo.com">
+			</me>
+	<education>
+		<qualification
+			establishment="Mehran University"
+			type="Degree"
+			from="2016"
+			to="2019">
+					</qualification>
+		<qualification
+			establishment="XYZ  College"
+			type=" Intermediate "
+			from="2013"
+			to="2015">
+					</qualification>
+		<qualification
+			establishment="ABC school"
+			type=" Matriculation "
+			year="2013">
+			A grade in <strong> Intermediate </strong><br/>
+			A+  grade in <strong> Matriculation </strong><br/>
+			
+		</qualification>
+		
+	</education>
+	
+	<references>
+		<contact
+			email="abc@gmail.com"
+			telephone="07847884748”>
+			
+		</contact>
+		<contact
+			email="xyz@hotmail.com"
+			telephone="63896795097698">
+						
+		</contact>
+	</references>
+</cv>
+

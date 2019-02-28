@@ -1,0 +1,46 @@
+var university=[
+{
+	"Department of civil Engineering": {
+		"position": {
+			"Longitude": 24.9263,
+			"Latitude": 25.80404
+		}
+	},
+
+	"Department of Mechanical Engineering": {
+		"Position": {
+			"Longitude": 3.54363,
+			"Latitude": 27.86343
+		}
+	},
+	"Department of Software Engineering": {
+		"Position": {
+			"Longitude": 5.80643,
+			"Latitude: 28.64589
+		}
+	},
+	"Department of Electrical Engineering": {
+		"Position": {
+			"Longitude": 6.80643,
+			"Latitude: 24.64589
+		}
+	},
+	"Department of Electronics Engineering": {
+		"Position": {
+			"Longitude": 2.80643,
+			"Latitude: 28.64589
+		}
+	},
+	"Department of Architecture Engineering": {
+		"Position": {
+			"Longitude": 2.50683,
+			"Latitude: 27.64549
+		}
+	},
+	"Department of Industrial Engineering": {
+		"Position": {
+			"Longitude": 5.80643,
+			"Latitude: 28.64589
+		}
+	}
+];
